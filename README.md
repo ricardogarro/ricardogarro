@@ -15,10 +15,19 @@ Here are some ideas to get you started:
 -->
 
 ### Hello 👋
------------------------------------------------------------------------
 
-My name is Ricardo, I'm from Argentina and I'm a Systems Engineer.
+> My name is Ricardo, I'm from Argentina and I'm a Systems Engineer.
 
 ### Skills
+> Docker, Laravel, React JS.
 
+
+### Personal interest
+
+I am currently learning about Kubernetes, Blockchain, and CI / CD.
+
+
+### Contact 
+
+Find all of my socials and resume in my website
 
