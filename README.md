@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 
 ### Personal interest
 
-I am currently learning about Kubernetes, Blockchain, and CI / CD.
+> I am currently learning about Kubernetes, Blockchain, and CI / CD.
 
 
 ### Contact 
 
-Find all of my socials and resume in my [website](http://argelinux.com.ar).
+> Find all of my socials and resume in my [website](http://argelinux.com.ar).
 
