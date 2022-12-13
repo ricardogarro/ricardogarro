@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 > My name is Ricardo, I'm from Argentina and I'm a Systems Engineer.
 
 ### Skills
-> Linux, Docker, Laravel, React JS, SQL.
+> Linux, Docker, Laravel, Terrafomr, SQL.
 
 
 ### Personal interest
