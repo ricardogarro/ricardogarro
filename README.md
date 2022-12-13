@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ### Personal interest
 
-> I am currently learning about Kubernetes, Terraform, Blockchain and CI / CD.
+> I am currently learning about Kubernetes, Federated Learning , Blockchain and CI / CD.
 
 
 ### Contact 
